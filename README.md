@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi there, welcome to my GitHub! 👋
+- 🎓 Bachelor degree in computer engineering.
+- 📖💻 Currently studying for my master's degree in computer engineering.
 <!--
 **FilippoMuschera/FilippoMuschera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoMuschera&show_icons=true&theme=gotham&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoMuschera&show_icons=true&theme=gotham&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoMuschera&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
