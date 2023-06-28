@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoMuschera&theme=gotham&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 Learning to use:
-https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/git.svg
+(https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/git.svg)
