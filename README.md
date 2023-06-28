@@ -21,4 +21,22 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoMuschera&theme=gotham&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 Learning to use:
-![Git](https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/git.svg)
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/others/git.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/bash.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/c.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/java.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/kotlin.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/python.svg" height="50" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/firebase.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/databases/mysql.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/android-studio.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/ides/android-studio.svg" height="50" />
+
+
+
+
+
+
+
+
