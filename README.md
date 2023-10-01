@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Filippo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FilippoMuschera&show_icons=true&theme=gotham&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FilippoMuschera&show_icons=true&theme=gotham&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoMuschera&theme=gotham&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -32,9 +34,7 @@ Learning to use:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" height="50" />
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/firebase.svg" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="50" style="background-color: white;" />
-
-
-
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/unity.png" height="50" />
 
 
 
