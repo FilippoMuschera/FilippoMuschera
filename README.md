@@ -41,6 +41,11 @@ Learning to use:
 <img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/firebase.svg" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="50" style="background-color: white;" />
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/tools/unity.png" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/cloud/docker.svg" height="50" />
+<img src="https://raw.githubusercontent.com/bablubambal/All_logo_and_pictures/main/programming%20languages/go.svg" height="50" />
+
+
+
 
 
 
