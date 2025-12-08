@@ -6,7 +6,7 @@
 
 ### Hi there, welcome to my GitHub! 👋
 - 🎓 Bachelor degree in computer engineering.
-- 📖💻 Currently studying for my master's degree in computer engineering, with a focus on ML 🤖 and cybersecurity. 🦠
+- 📖💻 Currently studying for my master's degree in computer engineering, with a focus on AI 🤖, cloud ☁️ and cybersecurity. 🦠
 <!--
 **FilippoMuschera/FilippoMuschera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,11 +22,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<br><br>
 
-[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=FilippoMuschera&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FilippoMuschera&theme=gotham&hide=Makefile)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="250" align="center" 
+       src="https://github-readme-stats-eta-opal-92.vercel.app/api?username=FilippoMuschera&theme=catppuccin_mocha&rank_icon=github&include_all_commits=true&show=prs_merged&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="250" align="center" 
+       src="https://github-readme-stats-eta-opal-92.vercel.app/api/top-langs/?username=FilippoMuschera&theme=catppuccin_mocha&hide=Makefile,CSS,yacc,Lex&count_private=true&size_weight=0&count_weight=1&langs_count=10&layout=compact" />
+</a>
+<br><br>
 
 Learning to use:  
 ![Java](https://img.shields.io/badge/java-ED8B00?logo=coffeescript&logoColor=white&style=for-the-badge)
