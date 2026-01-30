@@ -51,6 +51,11 @@ Learning to use:
 ![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white&style=for-the-badge)
 ![AWS](https://img.shields.io/badge/aws-232F3E?logo=alamy&logoColor=white&style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=for-the-badge)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
+![Ghidra](https://img.shields.io/badge/Ghidra-000000?logo=ghidra&logoColor=red&style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-16214D?logo=wireshark&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white&style=for-the-badge)
 
 
 
